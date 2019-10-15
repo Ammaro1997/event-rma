@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Attendize-master\resources\views/Shared/Layouts/ViewJavascript.blade.php ENDPATH**/ ?>
